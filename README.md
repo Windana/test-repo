@@ -4,6 +4,9 @@ Contact Details for dev-003, 1, 2, 3
 Added new feature
 
 Added another feature
+Contact Details for dev-003, 1, 2, 3
+
+Added new feature
 
 asdasd
 
