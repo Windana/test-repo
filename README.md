@@ -1,11 +1,14 @@
 Contact Details for dev-003, 1, 2, 3
 
+<<<<<<< HEAD
 New Commit 1
 
 New Commit 2
 
 New Commit 3
 
+=======
+>>>>>>> parent of df125ef (New 1)
 asdasd
 
 asdasd
